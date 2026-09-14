@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0009-palindrome-number) |
+| [0836-rectangle-overlap](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0836-rectangle-overlap) |
 ## Recursion
 |  |
 | ------- |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bishal0019/LeetCodeDSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
