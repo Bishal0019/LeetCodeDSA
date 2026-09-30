@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0041-first-missing-positive) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bishal0019/LeetCodeDSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0041-first-missing-positive) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bishal0019/LeetCodeDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
