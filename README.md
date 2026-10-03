@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0045-jump-game-ii) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0045-jump-game-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bishal0019/LeetCodeDSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
 | ------- |
