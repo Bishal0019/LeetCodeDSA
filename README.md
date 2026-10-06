@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0046-permutations) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bishal0019/LeetCodeDSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0046-permutations) |
 ## Stack
 |  |
 | ------- |
