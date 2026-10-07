@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0048-rotate-image) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bishal0019/LeetCodeDSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0048-rotate-image) |
 | [0836-rectangle-overlap](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0836-rectangle-overlap) |
 ## Recursion
 |  |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0836-rectangle-overlap) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
