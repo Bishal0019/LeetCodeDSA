@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0047-permutations-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bishal0019/LeetCodeDSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -94,11 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0047-permutations-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0047-permutations-ii) |
 ## Stack
 |  |
 | ------- |
