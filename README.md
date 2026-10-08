@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0049-group-anagrams) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bishal0019/LeetCodeDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0049-group-anagrams) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bishal0019/LeetCodeDSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0049-group-anagrams) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bishal0019/LeetCodeDSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
