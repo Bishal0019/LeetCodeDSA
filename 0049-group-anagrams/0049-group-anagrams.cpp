@@ -1,30 +1,33 @@
 class Solution {
 public:
-    bool isAnagrams(string s1, string s2){
-        if(s1.size() != s2.size()) return false;
-        string temp2 = s2;
-        sort(temp2.begin(), temp2.end());
-
-        if(s1 != temp2) return false;
-
-        return true; 
-    }
-
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
         vector<vector<string>> res;
+        vector<string> sorted;
+
+        for(int i=0; i<strs.size(); i++){
+            string temp = strs[i];
+            sort(temp.begin(), temp.end());
+            sorted.push_back(temp);
+        }
 
         for(int i = 0; i<strs.size(); i++){
+
             vector<string> temp;
             int count = 0;
-            string s = strs[i];
-            sort(s.begin(), s.end());
+
             for(int j=i; j<strs.size(); j++){
-                if(isAnagrams(s, strs[j])){
+                if(sorted[i] == sorted[j]){
                     temp.push_back(strs[j]);
-                    if(j != count) swap(strs[j], strs[i + count]);
+
+                    if(j != i+count){
+                        swap(strs[j], strs[i+count]);
+                        swap(sorted[j], sorted[i+count]);
+                    }
+
                     count++;
                 }
             }
+
             res.push_back(temp);
             i+=count-1;
         }
