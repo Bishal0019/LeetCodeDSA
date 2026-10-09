@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bishal0019/LeetCodeDSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
