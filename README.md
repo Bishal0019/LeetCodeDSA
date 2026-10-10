@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0054-spiral-matrix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bishal0019/LeetCodeDSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -154,4 +155,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
