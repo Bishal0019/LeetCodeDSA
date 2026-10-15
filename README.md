@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0056-merge-intervals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bishal0019/LeetCodeDSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bishal0019/LeetCodeDSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0056-merge-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bishal0019/LeetCodeDSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Bishal0019/LeetCodeDSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
